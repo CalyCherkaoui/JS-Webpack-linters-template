@@ -52,9 +52,8 @@ This project project was built following the specifications , and user storiess 
 
 - Main views screenshots:
 <br>
-<img width="400" src="./screenshots/home.png"><span> </span><img width="400" src="./screenshots/menu.png">
+<img width="400" src="./screenshots/home.png"><span> </span>
 <br>
-<img width="400" src="./screenshots/contact.png">
 
 ## Dependencies:
 
