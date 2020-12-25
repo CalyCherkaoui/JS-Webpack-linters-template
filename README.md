@@ -138,6 +138,22 @@ $ git checkout feature
 $ npm install
 ```
 
+To activate Webpack watch mode:
+```
+$ npm run watch
+```
+
+To lint your Js code:
+```
+$ npx eslint . --fix
+```
+
+to lint you styling:
+```
+$ npx stylelint "**/*.{css,scss}" --fix
+```
+
+
 ## Deployment:
 
 This web-application was deployed with github pages
